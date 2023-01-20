@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jasen Huel",
+      "email": "Aiden63@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Anderson Morissette",
+      "email": "Raoul88@hotmail.com" 
+    },
+    {
+      "id": 3,
+      "name": "Maudie Metz",
+      "email": "Arthur_Renner55@hotmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Alexandra Hansen",
+      "email": "Cathryn3@hotmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Shelly Stracke",
+      "email": "Sleek Granite Table"
+    },
+    {
+      "id": 6,
+      "name": "Shaun Koch",
+      "email": "Eldon_Kris43@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Tami Hodkiewicz",
+      "email": "Darian.Little@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Jean Boyer",
+      "email": "Buster.Bosco@hotmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Bobby Witting",
+      "email": "Daphne_Hamill@yahoo.com"
+    },
+    {
+      "id": 10,
+      "name": "Florence Ryan",
+      "email": "Blake15@hotmail.com"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "userId": 5,
+      "loyaltyNumber": 68850
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "loyaltyNumber": 31571
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "loyaltyNumber": 61809
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "loyaltyNumber": 30669
+    },
+    {
+      "id": 5,
+      "userId": 4,
+      "loyaltyNumber": 24954
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "userId": 10,
+      "locationId": 3,
+      "startDate": "Feb 03 2022",
+      "payRate": 86.15
+    },
+    {
+      "id": 2,
+      "userId": 6,
+      "locationId": 3,
+      "startDate": "Jan 17 2023",
+      "payRate": 91.78
+    },
+    {
+      "id": 3,
+      "userId": 7,
+      "locationId": 1,
+      "startDate": "Dec 30 2022",
+      "payRate": 45.29
+    },
+    {
+      "id": 4,
+      "userId": 8,
+      "locationId": 2,
+      "startDate": "Apr 20 1991",
+      "payRate": 38.82
+    },
+    {
+      "id": 5,
+      "userId": 9,
+      "locationId": 1,
+      "startDate": "Sep 24 2022",
+      "payRate": 58.48
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "address": "976 Marcelle Underpass, West Brookton, AZ 01891",
+      "squareFootage": 5705
+    },
+    {
+      "id": 2,
+      "address": "170 Zackery Mountains, New Shaylee, SC 59759",
+      "squareFootage": 7500
+    },
+    {
+      "id": 3,
+      "address": "12400 Derick Centers, Jacquesmouth, TX 26239",
+      "squareFootage": 9671
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Awesome Metal Chair",
+      "typeId": 1,
+      "unitPrice": 500.00
+    },
+    {
+      "id": 2,
+      "name": "Awesome Fresh Hat",
+      "typeId": 3,
+      "unitPrice": 845.00
+    },
+    {
+      "id": 3,
+      "name": "Tasty Wooden Towels",
+      "typeId": 1,
+      "unitPrice": 336.00
+    },
+    {
+      "id": 4,
+      "name": "Tasty Tuna Gloves",
+      "typeId": 2,
+      "unitPrice": 206.00
+    },
+    {
+      "id": 5,
+      "name": "Intelligent Soft Bikes",
+      "typeId": 2,
+      "unitPrice": 879.00
+    },
+    {
+      "id": 6,
+      "name": "Handcrafted Unbranded Fish",
+      "typeId": 3,
+      "unitPrice": 834.00
+    },
+    {
+      "id": 7,
+      "name": "Generic Granite Pants",
+      "typeId": 1,
+      "unitPrice": 842.00
+    }
+  ],
+  "productTypes": [
+    {
+      "id": 1,
+      "typeName": "Hard Candies"
+    },
+    {
+      "id": 2,
+      "typeName": "Gummies"
+    },
+    {
+      "id": 3,
+      "typeName": "Chocolates"
+    }
+  ],
+  "purchases": []
+}
