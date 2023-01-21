@@ -83,35 +83,35 @@
       "id": 1,
       "userId": 10,
       "locationId": 3,
-      "startDate": "Feb 03 2022",
+      "startDate": "Tue Feb 01 2022 05:28:03 GMT-0600 (Central Standard Time)",
       "payRate": 86.15
     },
     {
       "id": 2,
       "userId": 6,
       "locationId": 3,
-      "startDate": "Jan 17 2023",
+      "startDate": "Sat Apr 30 2022 01:21:24 GMT-0500 (Central Daylight Time)",
       "payRate": 91.78
     },
     {
       "id": 3,
       "userId": 7,
       "locationId": 1,
-      "startDate": "Dec 30 2022",
+      "startDate": "Sat May 07 2022 21:03:40 GMT-0500 (Central Daylight Time)",
       "payRate": 45.29
     },
     {
       "id": 4,
       "userId": 8,
       "locationId": 2,
-      "startDate": "Apr 20 1991",
+      "startDate": "Sat Oct 01 2022 12:49:48 GMT-0500 (Central Daylight Time)",
       "payRate": 38.82
     },
     {
       "id": 5,
       "userId": 9,
       "locationId": 1,
-      "startDate": "Sep 24 2022",
+      "startDate": "Thu Dec 29 2022 14:20:08 GMT-0600 (Central Standard Time)",
       "payRate": 58.48
     }
   ],
@@ -141,7 +141,7 @@
     },
     {
       "id": 2,
-      "name": "Awesome Fresh Hat",
+      "name": "Incredible Fresh Hat",
       "typeId": 3,
       "unitPrice": 845.00
     },
@@ -153,7 +153,7 @@
     },
     {
       "id": 4,
-      "name": "Tasty Tuna Gloves",
+      "name": "Gorgeous Tuna Gloves",
       "typeId": 2,
       "unitPrice": 206.00
     },
