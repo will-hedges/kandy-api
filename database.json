@@ -3,52 +3,62 @@
     {
       "id": 1,
       "name": "Jasen Huel",
-      "email": "Aiden63@gmail.com"
+      "email": "Aiden63@gmail.com",
+      "isStaff": false
     },
     {
       "id": 2,
       "name": "Anderson Morissette",
-      "email": "Raoul88@hotmail.com"
+      "email": "Raoul88@hotmail.com",
+      "isStaff": false
     },
     {
       "id": 3,
       "name": "Maudie Metz",
-      "email": "Arthur_Renner55@hotmail.com"
+      "email": "Arthur_Renner55@hotmail.com",
+      "isStaff": false
     },
     {
       "id": 4,
       "name": "Alexandra Hansen",
-      "email": "Cathryn3@hotmail.com"
+      "email": "Cathryn3@hotmail.com",
+      "isStaff": false
     },
     {
       "id": 5,
       "name": "Shelly Stracke",
-      "email": "Sleek Granite Table"
+      "email": "Durward_Marvin92@gmail.com",
+      "isStaff": false
     },
     {
       "id": 6,
       "name": "Shaun Koch",
-      "email": "Eldon_Kris43@gmail.com"
+      "email": "Eldon_Kris43@gmail.com",
+      "isStaff": true
     },
     {
       "id": 7,
       "name": "Tami Hodkiewicz",
-      "email": "Darian.Little@gmail.com"
+      "email": "Darian.Little@gmail.com",
+      "isStaff": true
     },
     {
       "id": 8,
       "name": "Jean Boyer",
-      "email": "Buster.Bosco@hotmail.com"
+      "email": "Buster.Bosco@hotmail.com",
+      "isStaff": true
     },
     {
       "id": 9,
       "name": "Bobby Witting",
-      "email": "Daphne_Hamill@yahoo.com"
+      "email": "Daphne_Hamill@yahoo.com",
+      "isStaff": true
     },
     {
       "id": 10,
       "name": "Florence Ryan",
-      "email": "Blake15@hotmail.com"
+      "email": "Blake15@hotmail.com",
+      "isStaff": true
     }
   ],
   "customers": [
@@ -137,43 +147,43 @@
       "id": 1,
       "name": "Awesome Metal Chair",
       "typeId": 1,
-      "unitPrice": 500.00
+      "unitPrice": 5.00
     },
     {
       "id": 2,
       "name": "Incredible Fresh Hat",
       "typeId": 3,
-      "unitPrice": 845.00
+      "unitPrice": 4.50
     },
     {
       "id": 3,
       "name": "Tasty Wooden Towels",
       "typeId": 1,
-      "unitPrice": 336.00
+      "unitPrice": 3.36
     },
     {
       "id": 4,
       "name": "Gorgeous Tuna Gloves",
       "typeId": 2,
-      "unitPrice": 206.00
+      "unitPrice": 2.06
     },
     {
       "id": 5,
       "name": "Intelligent Soft Bikes",
       "typeId": 2,
-      "unitPrice": 879.00
+      "unitPrice": 8.79
     },
     {
       "id": 6,
       "name": "Handcrafted Unbranded Fish",
       "typeId": 3,
-      "unitPrice": 834.00
+      "unitPrice": 8.34
     },
     {
       "id": 7,
       "name": "Generic Granite Pants",
       "typeId": 1,
-      "unitPrice": 842.00
+      "unitPrice": 8.42
     }
   ],
   "productTypes": [
