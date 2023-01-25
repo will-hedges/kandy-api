@@ -146,44 +146,56 @@
     {
       "id": 1,
       "name": "Awesome Metal Chair",
-      "typeId": 1,
-      "unitPrice": 5.00
+      "productTypeId": 1,
+      "unitPrice": 5
     },
     {
       "id": 2,
       "name": "Incredible Fresh Hat",
-      "typeId": 3,
-      "unitPrice": 4.50
+      "productTypeId": 3,
+      "unitPrice": 4.5
     },
     {
       "id": 3,
       "name": "Tasty Wooden Towels",
-      "typeId": 1,
+      "productTypeId": 1,
       "unitPrice": 3.36
     },
     {
       "id": 4,
       "name": "Gorgeous Tuna Gloves",
-      "typeId": 2,
+      "productTypeId": 2,
       "unitPrice": 2.06
     },
     {
       "id": 5,
       "name": "Intelligent Soft Bikes",
-      "typeId": 2,
+      "productTypeId": 2,
       "unitPrice": 8.79
     },
     {
       "id": 6,
       "name": "Handcrafted Unbranded Fish",
-      "typeId": 3,
+      "productTypeId": 3,
       "unitPrice": 8.34
     },
     {
       "id": 7,
       "name": "Generic Granite Pants",
-      "typeId": 1,
+      "productTypeId": 1,
       "unitPrice": 8.42
+    },
+    {
+      "name": "Danish Feesh",
+      "productTypeId": 2,
+      "unitPrice": 3.29,
+      "id": 8
+    },
+    {
+      "name": "Haribo Ultra Gummy Bears",
+      "productTypeId": 2,
+      "unitPrice": 6.75,
+      "id": 9
     }
   ],
   "productTypes": [
